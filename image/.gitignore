@@ -12,14 +12,14 @@
 
 # Altered Textures
 !/texture/kmr_tex.txa
-!/kmr_tex/kmr_tex.mtl
-!/kmr_tex/kmr_s_roadtif.png
-!/kmr_tex/kmr_flowertif.png
-!/kmr_tex/kmr_s_road_3tif.png
-!/kmr_tex/kmr_iwa_togo_atif.png
-!/kmr_tex/kmr_umisokotif.png
-!/kmr_tex/kmr_rock_edgetif.png
-!/kmr_tex/kmr_kusatif.png
-!/kmr_tex/kmr_kitchentif.png
-!/kmr_tex/kmr_komonotif.png
-!/kmr_tex/kmr_mac_hashigotif.png
+!/texture/kmr_tex/kmr_tex.mtl
+!/texture/kmr_tex/kmr_s_roadtif.png
+!/texture/kmr_tex/kmr_flowertif.png
+!/texture/kmr_tex/kmr_s_road_3tif.png
+!/texture/kmr_tex/kmr_iwa_togo_atif.png
+!/texture/kmr_tex/kmr_umisokotif.png
+!/texture/kmr_tex/kmr_rock_edgetif.png
+!/texture/kmr_tex/kmr_kusatif.png
+!/texture/kmr_tex/kmr_kitchentif.png
+!/texture/kmr_tex/kmr_komonotif.png
+!/texture/kmr_tex/kmr_mac_hashigotif.png
