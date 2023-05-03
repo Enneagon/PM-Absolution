@@ -1,0 +1,337 @@
+#message:01:000
+{
+	[Style Right]Hi.[BR][Wait][Next]
+	You should know... I'm really,[BR]
+	really tough.[BR]
+	[Wait][Next]
+	Want to fight anyway?[BR]
+	[Yield][End]
+}
+
+#message:01:001
+{
+	[Next]That's probably for the best.[Wait][End]
+}
+
+#message:01:002
+{
+	[Next]Here goes nothing.[Wait][End]
+}
+
+#message:01:003
+{
+	[Style Right]
+	Our reports showed a massive[BR]
+	anomaly in the timespace[BR]
+	continuum.
+	[Wait][End]
+}
+
+#message:01:004
+{
+	[Style Right]
+	It's ending. All of it. It's all[BR]
+	crashing down.
+	[Wait][End]
+}
+
+#message:01:005
+{
+	[Style Right]
+	The whole multiverse is about to[BR]
+	experience a cataclysmic collapse.[BR]
+	Everything wiped out in less than[BR]
+	an instant.
+	[Wait][End]
+}
+
+#message:01:006
+{
+	[Style Right]
+	Heh heh heh...[BR]
+	[Wait][Next]
+	Don't be coy. You know exactly[BR]
+	what you did.
+	[Wait][End]
+}
+
+#message:01:007
+{
+	[Style Right]
+	Soon, this won't matter at all.
+	[Wait][End]
+}
+
+#message:01:008
+{
+	[Style Right]
+	Once the book closes, it won't[BR]
+	matter one bit whether you were[BR]
+	a saint or a sinner, a hero or a[BR]
+	villain...[BR]
+	[Wait][Next]
+	An emperor or a plumber.
+	[Wait][End]
+}
+
+#message:01:009
+{
+	[Style Right]
+	Look around! What are you[BR]
+	trying to accomplish?
+	[Wait][End]
+}
+
+#message:01:00A
+{
+	[Style Right]
+	No amount of adulation or[BR]
+	absolution makes a bit of[BR]
+	difference in the face of oblivion.
+	[Wait][End]
+}
+
+#message:01:00B
+{
+	[Style Right]
+	If you ask me, the most 'heroic'[BR]
+	thing you can do right now?[BR]
+	[Wait][Next]
+	Would be to lie down in the muck[BR]
+	with the other condemned souls...[BR]
+	and let me bring them justice[BR]
+	while the concept still exists.[BR]
+	[Wait][End]
+}
+
+#message:01:00C
+{
+	[Style Right]
+	Ugh... that being said...[BR]
+	[Pause 20]You're a pretty persistent[BR]
+	fighter, ain't ya?
+	[Wait][End]
+}
+
+#message:01:00D
+{
+	[Style Right]
+	You know what your sin is, Mario?[BR]
+	The real reason you're so badly[BR]
+	in need of forgiveness?
+	[Wait][End]
+}
+
+#message:01:00E
+{
+	[Style Right]
+	You're above it all. You don't[BR]
+	care. You think that none of this[BR]
+	affects you.
+	[Wait][End]
+}
+
+#message:01:00F
+{
+	[Style Right]
+	You think that once you meet[BR]
+	your demise, at the end of all[BR]
+	things, that you will seem any[BR]
+	better than me?
+	[Wait][End]
+}
+
+#message:01:010
+{
+	[Style Right]
+	Why? Because to you, I'm just[BR]
+	a character in a story?[BR]
+	YOUR story?[BR]
+	[Wait][Next]
+	A trillion is just as far from[BR]
+	infinity as the number one.
+	[Wait][End]
+}
+
+#message:01:011
+{
+	[Style Right]
+	Even in the face of your[BR]
+	impending irrelevance, you cling[BR]
+	to the belief that your actions[BR]
+	have meaning...[BR]
+	[Wait][Next]
+	Because they're YOUR actions.[BR]
+	Because YOU have meaning.
+	[Wait][End]
+}
+
+#message:01:012
+{
+	[Style Right]
+	Hah! Even now, pride clouds your[BR]
+	mind. Vainglory undoes you.
+	[Wait][End]
+}
+
+#message:01:013
+{
+	[Style Right]
+	But... and I realize this is a[BR]
+	big ask...[BR]
+	[Pause 50]Don't get too cocky.
+	[Wait][End]
+}
+
+#message:01:014
+{
+	[Style Right]
+	I've been keeping a little[BR]
+	something in reserve. Something[BR]
+	that I suspect you'll want to[BR]
+	hang on to see.
+	[Wait][End]
+}
+
+#message:01:015
+{
+	[Style Right]
+	And if your confidence that you[BR]
+	can't lose has brought you this[BR]
+	far...
+	[Wait][End]
+}
+
+#message:01:016
+{
+	[Style Right]
+	...Then I would love to go all-out[BR]
+	against a sinner of your caliber.
+	[Wait][End]
+}
+
+#message:01:017
+{
+	[Style Right]
+	All right! Let's welcome the end[BR]
+	of it all with one last big bang![BR]
+	[Wait][Next]
+	[Wave]Kyaaaah![/fx] Survive this if you can!
+	[Wait][End]
+}
+
+#message:01:018
+{
+	[Style Right]
+	Yeah! Leave it to me![BR]
+	[Pause 10]I know the place front to back![Wait][End]
+}
+
+#message:01:019
+{
+	[Style Right]
+	[Down 8][Size 32]Kooper![Wait][End]
+}
+
+#message:01:01A
+{
+	[Style Right]
+	Huh?[BR]
+	[Pause 10]Parakarry?[BR]
+	[Pause 10]What brings you here?[Wait][End]
+}
+
+#message:01:01B
+{
+	[Style Right]
+	Listen.[BR]
+	[Wait][Next]
+	I know you're used to playing the[BR]
+	hero. And hey, even when you[BR]
+	flipped to the dark side, it was[BR]
+	all in good fun.[BR]
+	[Wait][Next]
+	But I promise you, for once in[BR]
+	your life, the path that's being[BR]
+	presented to you is not a path[BR]
+	you want to follow.[BR]
+	[Wait][Next]
+	So for all the victories you've[BR]
+	claimed... let the other side have[BR]
+	one. That can be your absolution.[BR]
+	[Wait][Next]
+	What do you say?
+	[Wait][End]
+}
+
+#message:01:01C
+{
+	[Style Choice pos=110,90 size=128,46]
+	[StartChoice]
+	[Option 0]Keep fighting[BR]
+	[Option 1]Accept oblivion[BR]
+	[EndChoice][End]
+}
+
+#message:01:01D
+{
+	[Style Right]
+	Ah, it doesn't matter. I'm just[BR]
+	winding you up in preparation[BR]
+	for this big attack.
+	[Wait][End]
+}
+
+#message:01:01E
+{
+	[Style Right]
+	Huh...[BR]
+	[Pause 50]Truth be told, I really didn't[BR]
+	think that would work.[BR]
+	[Wait][Next]
+	Congrats, Mario. You got the[BR]
+	good ending.[Wait][End]
+}
+
+#message:01:01F
+{
+	[Style Right]
+	Phew... Huh. You're still alive.[BR]
+	[Wait][Next]
+	Guess it's time for me to pull out[BR]
+	all the stops... and deliver my[BR]
+	Final Attack.[BR]
+	[Wait][Next]
+	Here goes nothing.
+	[Wait][End]
+}
+
+#message:01:020
+{
+	[Style Right]
+	Yep. That's right. It's[BR]
+	[PrintRising]literally nothing[/fx].[BR]
+	[Wait][Next]
+	And it's not gonna be anything,[BR]
+	either.[BR]
+	[Wait][Next]
+	I can't beat you. And one of[BR]
+	these turns, you're finally gonna[BR]
+	crack my skull.[BR]
+	[Wait][Next]
+	So I'm just gonna keep having[BR]
+	MY turn until reality snaps.[BR]
+	Stalemate.[Wait][End]
+}
+
+#message:01:021
+{
+	[Style Right]
+	Time's ticking closer. Whether you[BR]
+	realize it or not.[BR]
+	[Wait][Next]
+	Is this really how you want to[BR]
+	spend the rest of your life?
+	[Wait][End]
+}
+

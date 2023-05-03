@@ -1,0 +1,241 @@
+#message:00:001
+{
+	[Style Right]Hey there. You lost, buddy?[Wait][End]
+}
+
+#message:00:002
+{
+	[Style Right]
+	Most people who come this way[BR]
+	take the caravan from Carnage[BR]
+	City. The pipe? That's rare.[BR]
+	[Wait][Next]
+	You must have come from a long,[BR]
+	long way away to be using that.[BR]
+	Am I right?[BR]
+	[Wait][Next]
+	...It's okay, you don't gotta tell[BR]
+	me nothing.[BR]
+	[Wait][Next]
+	Everyone's got their reasons[BR]
+	for coming here. Not everyone[BR]
+	wants those reasons known.
+	[Wait][End]
+}
+
+#message:00:003
+{
+	[Style Right]
+	I'm Virgil. I like to people-watch.[BR]
+	Figure out what makes folks tick,[BR]
+	you know?[BR]
+	[Wait][Next]
+	And I can tell just by looking[BR]
+	at you that you're a pretty[BR]
+	capable guy.[BR]
+	[Wait][Next]
+	That's a good thing for both[BR]
+	of us. See, it just so happens[BR]
+	there's been some trouble on[BR]
+	the road lately.[BR]
+	[Wait][Next]
+	A buncha bandits called the[BR]
+	Sandbag Brigands have set up[BR]
+	shop just south of the tower.[BR]
+	Yeah, THAT tower.[BR]
+	[Wait][Next]
+	So if you wanna go there - and[BR]
+	why else would you be here? -[BR]
+	you gotta get through them.[BR]
+	[Wait][Next]
+	No one can get past them on[BR]
+	their own. But with your strength[BR]
+	and my know-how, we just might[BR]
+	stand a chance.[BR]
+	[Wait][Next]
+	Whaddaya say?[BR]
+	[Pause 20]...I mean, you don't have much[BR]
+	choice, do you?
+	[Wait][End]
+}
+
+#message:00:004
+{
+	[Style Right]
+	Awesome. C'mon, let's head inside.[BR]
+	I'll show you around.[Wait][End]
+}
+
+#message:00:005
+{
+	[Style Right]
+	Welcome to Paradise Outpost.[BR]
+	Not bad, huh?[BR]
+	[Wait][Next]
+	...Yeah, can't say that with a[BR]
+	straight face. It's a dump.[BR]
+	But for you and me both, for[BR]
+	now, it's home.[BR]
+	[Wait][Next]
+	If you want a guided tour, just[BR]
+	press [C-DOWN] whenever. I don't mind![BR]
+	[Pause 20]...Much.[BR]
+	[Wait][Next]
+	C'mon, let's head to my place.[BR]
+	It's the white building with all[BR]
+	the herbs hanging off it, on the[BR]
+	second floor.[BR]
+	[Wait][Next]
+	Oh, uh... and if you see an[BR]
+	angry-looking Toad with a black[BR]
+	turban, just ignore him, yeah?
+	[Wait][End]
+}
+
+#message:00:006
+{
+	[Style Right]
+	...So, yeah. This is my pad.[BR]
+	[Wait][Next]
+	Make yourself comfortable,[BR]
+	I guess.
+	[Wait][End]
+}
+
+#message:00:007
+{
+	[Style Right]
+	So. You've probably heard a few[BR]
+	different versions of the story[BR]
+	on your travels.[BR]
+	[Wait][Next]
+	You might have some wrong ideas[BR]
+	about what to expect. I'll fill[BR]
+	you in on the truth.[BR]
+	[Wait][Next]
+	Penance Tower? It's real.[BR]
+	Or it's a real place, at least.[BR]
+	[Wait][Next]
+	They say you can only enter it[BR]
+	if you've committed some great[BR]
+	sin. I don't know how true that[BR]
+	is.[BR]
+	[Wait][Next]
+	But if you make it all the way[BR]
+	to the top... all your past sins[BR]
+	will be completely erased.[BR]
+	[Wait][Next]
+	Every crime, forgotten. Every[BR]
+	hurt, forgiven. A brand new[BR]
+	start to life, the slate wiped[BR]
+	clean.[BR]
+	[Wait][Next]
+	I dunno what you've done that[BR]
+	made you want to come here, and[BR]
+	I'm not gonna ask. But if you're[BR]
+	looking for absolution...[BR]
+	[Wait][Next]
+	...Well, it ain't gonna be a walk[BR]
+	in the park. The Tower's supposed[BR]
+	to be full of traps and monsters.[BR]
+	[Wait][Next]
+	And yeah, I know what you're[BR]
+	thinking. I got my own reason for[BR]
+	wanting to climb the tower too.[BR]
+	[Wait][Next]
+	So does everyone else who comes[BR]
+	through here. Makes you wonder[BR]
+	what they did...[BR]
+	[Wait][Next]
+	...Anyway, I've talked too long.[BR]
+	We gonna hunt some bandits,[BR]
+	or what?
+	[Wait][End]
+}
+
+#message:00:008
+{
+	[Style Left]
+	Sorry, buddy. Can't in good[BR]
+	conscience let you pass.[BR]
+	There's bandits out there.[Wait][End]
+}
+
+#message:00:009
+{
+	[Style Right]
+	It's cool, Lance. This guy's with[BR]
+	me. We're gonna take care of the[BR]
+	bandits together.[Wait][End]
+}
+
+#message:00:00A
+{
+	[Style Left]
+	Oh hey, Virgil! You've always[BR]
+	come back from the valley just[BR]
+	fine, so...[BR]
+	[Wait][Next]
+	Sure, I guess I can let you[BR]
+	pass by.[Wait][End]
+}
+
+#message:00:00B
+{
+	[Style Left]
+	Stay safe out there, buds.[Wait][End]
+}
+
+#message:00:00C
+{
+	[Style Right]Well howdy doodly doo! That's[BR]
+	close enough, friend.[BR]
+	[Wait][Next]
+	Unluckily for you, you've just[BR]
+	run headlong into the Sandbag[BR]
+	Brigands![Wait][End]
+}
+
+#message:00:00D
+{
+	[Style Right]Now, what have we here?[Pause 20] Virgil?[BR]
+	Is that Virgil cowering back[BR]
+	there?[Wait][End]
+}
+
+#message:00:00E
+{
+	[Style Left]Uh... Hi, guys. We're just...[BR]
+	Y'know, passing through... So...[Wait][End]
+}
+
+#message:00:00F
+{
+	[Style Right]Ha ha ha! And here I thought[BR]
+	you'd gone and lost your nerve![BR]
+	[Wait][Next]
+	I'll do you a solid, buddy. Why[BR]
+	don't you scurry on home while[BR]
+	we beat the tar out of your[BR]
+	friend here?[Wait][End]
+}
+
+#message:00:010
+{
+	[Style Left][Wave]Gulp...[BR]
+	[/fx][Wait][Next]
+	I'm not running any more![BR]
+	Bring it, punks![Wait][End]
+}
+
+#message:00:011
+{
+	[Style Right]Your choice, bud![BR]
+	[Wait][Next]
+	Come on, fellas! Let's show these[BR]
+	weenies just what the Sandbag[BR]
+	Brigands are all about![Wait][End]
+}
+
+
+
