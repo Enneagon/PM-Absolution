@@ -1,0 +1,166 @@
+#message:1C:007
+{
+	[Style Right]
+	This is a Koopa Brigand.[BR]
+	[Pause 10]Is the mask supposed to make[BR]
+	them look intimidating?[BR]
+	[Wait][Next]
+	Max HP: 3, Attack Power: 2,[BR]
+	Defense Power: 1[BR]
+	It'll lose its defense power if[BR]
+	you flip it over.[BR]
+	[Wait][Next]
+	These guys are hungry,[BR]
+	hardened criminals, which makes[BR]
+	'em more dangerous than your[BR]
+	average Koopa Troopa.[BR]
+	[Wait][Next]
+	To come all this way to Penance[BR]
+	Tower just to mug people...[BR]
+	These guys really are scum.[Wait][End]
+}
+
+#message:1C:010
+{
+	[Style Right]
+	Yowza. This right here is Sandy[BR]
+	K. Desperado, which is definitely[BR]
+	not her real name.[BR]
+	[Wait][Next]
+	She's the leader of the Sandbag[BR]
+	Brigands, and has a whole bunch[BR]
+	of them backing her up.[BR]
+	[Wait][Next]
+	Max HP: 10, Attack Power: 2,[BR]
+	Defense Power: 3[BR]
+	[Wait][Next]
+	Even if you flip her, her defense[BR]
+	power will only drop to 1. We'll[BR]
+	have to think strategically and[BR]
+	use teamwork to take her down.[BR]
+	[Wait][Next]
+	If she's in trouble, she'll call[BR]
+	reinforcements or even fire that[BR]
+	cannon behind her. Let's focus[BR]
+	fire and take her down fast![Wait][End]
+}
+
+#message:1C:014
+{
+	[Style Right]
+	This is a Minty Mole.[BR]
+	[Pause 10]They're local vermin and[BR]
+	all-around nuisances.[BR]
+	[Wait][Next]
+	Max HP: 3, Attack Power: 1,[BR]
+	Defense Power: 0[BR]
+	[Wait][Next]
+	They can't see well, so they[BR]
+	don't look closely at what they're[BR]
+	throwing at you. Sometimes it[BR]
+	might even be something nice![BR]
+	[Wait][Next]
+	But other times, they can pull[BR]
+	out some real nasty attacks.[BR]
+	Yeowch! Watch out![Wait][End]
+}
+
+#message:1C:016
+{
+	[Style Right]
+	This is a Prickle, an evil cactus.[BR]
+	[Pause 10]They love to slam themselves into[BR]
+	people as hard as they can.[BR]
+	[Wait][Next]
+	Max HP: 4, Attack Power: 2,[BR]
+	Defense Power: 0[BR]
+	[Wait][Next]
+	Their spikes are pretty short,[BR]
+	so don't worry about jumping on[BR]
+	them. Your boots will be fine.[BR]
+	[Wait][Next]
+	What would turn a plant evil?[BR]
+	They're not carnivores or[BR]
+	anything. I guess some creatures[BR]
+	are just jerks.[Wait][End]
+}
+
+#message:1C:017
+{
+	[Style Right]
+	It's a Mini Bandito.[BR]
+	[Pause 10]These guys won't just damage[BR]
+	you; they'll steal your[BR]
+	hard-earned cash![BR]
+	[Wait][Next]
+	Max HP: 2, Attack Power: 1,[BR]
+	Defense Power: 0[BR]
+	[Wait][Next]
+	Banditos have always been[BR]
+	menaces, but they've been getting[BR]
+	bolder since the Sandbag[BR]
+	Brigands moved in.[BR]
+	[Wait][Next]
+	What do you think they do with[BR]
+	the money they steal? I've never[BR]
+	seen one in a shop.[BR]
+	[Wait][Next]
+	Do they hoard it? Do they EAT[BR]
+	it? Y'know, I don't think I really[BR]
+	want to know...[Wait][End]
+}
+
+#message:1C:044
+{
+	[Style Right]
+	This is a Flapjacket.[BR]
+	[Pause 10]They look like giant bees, but[BR]
+	they're something completely[BR]
+	different.[BR]
+	[Wait][Next]
+	Max HP: 2, Attack Power: 1,[BR]
+	Defense Power: 0[BR]
+	[Wait][Next]
+	Watch out for their stings. If[BR]
+	they break past your guard,[BR]
+	you'll probably be poisoned.[BR]
+	[Wait][Next]
+	Flapjackets normally eat[BR]
+	flowers, and use the nectar to[BR]
+	make a delicious syrup...[BR]
+	[Wait][Next]
+	But the flowers in this valley[BR]
+	have been vanishing lately...[BR]
+	I guess that's why they've been[BR]
+	so aggressive.
+	[Wait][End]
+}
+
+#message:1C:061
+{
+	[Style Right]
+	Whoa! What the heck? Where did[BR]
+	this come from? I guess its name[BR]
+	is Helvetica.[BR]
+	[Wait][Next]
+	Max HP: 1, Attack Power: 3,[BR]
+	Defense Power... Infinite?[BR]
+	That can't be right.[BR]
+	[Wait][Next]
+	There's no way such a weakling[BR]
+	should pose a threat. No matter[BR]
+	what, just keep attacking![BR]
+	[Wait][Next]
+	Brr... And yet somehow, I feel[BR]
+	a chill... Like it's staring into my[BR]
+	soul or something...[BR]
+	[Wait][Next]
+	Creepy, huh?[Wait][End]
+}
+
+#message:1C:096
+{
+	[Style Right]
+	This is a Fatal Syrup.[BR]
+	[Wait][End]
+}
