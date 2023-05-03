@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <MapTable>
 	<Area name="kmr" nickname="Goomba Region">
 		<Map name="kmr_00" nickname="Forest Clearing" flags="1"/>
@@ -18,6 +18,10 @@
 		<Map name="kmr_23" nickname="Chapter End" hasShape="false" hasHit="false"/>
 		<Map name="kmr_24" nickname="Save and Continue" hasShape="false" hasHit="false"/>
 		<Map name="kmr_30" nickname="Mario's House (Ending)"/>
+		<Map name="kmr_31" nickname="Paradise Entrance"/>
+		<Map name="kmr_32" nickname="Paradise Square"/>
+		<Map name="kmr_33" nickname="Paradise Pipe House"/>
+		<Map name="kmr_34" nickname="Paradise Graveyard"/>
 		<Stage name="kmr_bt03"/>
 		<Stage name="kmr_bt04"/>
 		<Stage name="kmr_bt05"/>
@@ -130,7 +134,7 @@
 		<Map name="trd_01" nickname="Left Tower" flags="103"/>
 		<Map name="trd_02" nickname="Left Stairway" flags="103"/>
 		<Map name="trd_03" nickname="Central Hall" flags="103"/>
-		<Map name="trd_04" nickname="Right Starway" flags="103"/>
+		<Map name="trd_04" nickname="Right Stairway" flags="103"/>
 		<Map name="trd_05" nickname="Right Tower" flags="103"/>
 		<Map name="trd_06" nickname="Jail" flags="103"/>
 		<Map name="trd_07" nickname="Dungeon Trap" flags="103"/>
@@ -152,6 +156,7 @@
 		<Map name="iwa_04" nickname="Suspension Bridge"/>
 		<Map name="iwa_10" nickname="Train Station"/>
 		<Map name="iwa_11" nickname="Train Ride Scene"/>
+		<Map name="iwa_12" nickname="Ruin Road"/>
 		<Stage name="iwa_bt01"/>
 		<Stage name="iwa_bt02"/>
 	</Area>
@@ -244,10 +249,10 @@
 		<Map name="mim_02" nickname="Stump Eyes" flags="102"/>
 		<Map name="mim_03" nickname="Flowers (Oaklie)" flags="102"/>
 		<Map name="mim_04" nickname="Tree Face (Bub-ulb)" flags="102"/>
-		<Map name="mim_05" nickname="Mushrooms (HP Plus)" flags="102"/>
-		<Map name="mim_06" nickname="Bee Hive (Path Splits)" flags="102"/>
-		<Map name="mim_07" nickname="Flowers Vanish" flags="102"/>
-		<Map name="mim_08" nickname="Laughing Rock" flags="102"/>
+		<Map name="mim_05" nickname="Mushrooms (Path Splits)" flags="102"/>
+		<Map name="mim_06" nickname="Flowers Vanish" flags="102"/>
+		<Map name="mim_07" nickname="Laughing Rock" flags="102"/>
+		<Map name="mim_08" nickname="Bee Hive (HP Plus)" flags="102"/>
 		<Map name="mim_09" nickname="Flowers Appear (FP Plus)" flags="102"/>
 		<Map name="mim_10" nickname="Exit to Toad Town"/>
 		<Map name="mim_11" nickname="Outside Boo's Mansion" flags="102"/>
@@ -480,7 +485,7 @@
 		<Map name="kpa_08" nickname="Castle Key Timing Puzzle" flags="102"/>
 		<Map name="kpa_09" nickname="Ultra Shroom Timing Puzzle" flags="102"/>
 		<Map name="kpa_10" nickname="Outside Lower Jail (No Lava)" flags="103"/>
-		<Map name="kpa_11" nickname="Outisde Lower Jail (Lava)" flags="103"/>
+		<Map name="kpa_11" nickname="Outside Lower Jail (Lava)" flags="103"/>
 		<Map name="kpa_12" nickname="Lava Channel 1" flags="103"/>
 		<Map name="kpa_13" nickname="Lava Channel 2" flags="103"/>
 		<Map name="kpa_14" nickname="Lava Channel 3" flags="103"/>
@@ -567,6 +572,26 @@
 		<Map name="tst_12" nickname="Flower Fields Test"/>
 		<Map name="tst_13" nickname="Partners and Shockwave"/>
 		<Map name="tst_20" nickname="Pipes Gallery"/>
+	</Area>
+	<Area name="dbg" nickname="Debug">
+		<Map name="dbg_00" nickname="Debug_1"/>
+		<Map name="dbg_01" nickname="Debug Camera"/>
+		<Map name="dbg_02" nickname="Cursed"/>
+		<Map name="dbg_03" nickname="Debug Cutscene"/>
+	</Area>
+	<Area name="inf" nickname="Inferno">
+		<Map name="inf_00" nickname="The Inferno"/>
+	</Area>
+	<Area name="sha" nickname="Valley of Shadows">
+		<Map name="sha_00" nickname="Ruin Road"/>
+		<Map name="sha_01" nickname="Flare's Cave"/>
+		<Map name="sha_02" nickname="Oasis"/>
+		<Map name="sha_03" nickname="Holdup Point"/>
+		<Map name="sha_04" nickname="Prickle Pass"/>
+		<Map name="sha_05" nickname="Bandit Base"/>
+		<Map name="sha_06" nickname="Syrup Sidepath"/>
+		<Stage name="sha_bt01"/>
+		<Stage name="sha_bt02"/>
 	</Area>
 	<Resource name="mac_tex" compressed="false"/>
 	<Resource name="tik_tex" compressed="false"/>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SpriteSheet maxComponents="1" paletteGroups="1">
+	<PaletteList>
+		<Palette id="0" name="Pink" src="Palette_00.png"/>
+		<Palette id="1" name="Blue" src="Palette_01.png"/>
+		<Palette id="2" name="Fatal Syrup" src="Palette_02.png"/>
+		<Palette id="3" src="Palette_03.png"/>
+		<Palette id="4" src="Palette_04.png"/>
+		<Palette id="5" src="Palette_05.png"/>
+		<Palette id="6" src="Palette_06.png"/>
+		<Palette id="7" src="Palette_07.png"/>
+		<Palette id="8" src="Palette_08.png"/>
+		<Palette id="9" src="Palette_09.png"/>
+		<Palette id="A" src="Palette_0A.png"/>
+		<Palette id="B" src="Palette_0B.png"/>
+		<Palette id="C" src="Palette_0C.png"/>
+		<Palette id="D" src="Palette_0D.png"/>
+		<Palette id="E" src="Palette_0E.png"/>
+	</PaletteList>
+	<RasterList>
+		<Raster id="0" name="Idle 1" palette="0" src="Raster_00.png"/>
+		<Raster id="1" name="Idle 2" palette="0" src="Raster_01.png"/>
+		<Raster id="2" name="Idle 3" palette="0" src="Raster_02.png"/>
+		<Raster id="3" name="Move 1" palette="0" src="Raster_07.png"/>
+		<Raster id="4" name="Move 2" palette="0" src="Raster_08.png"/>
+		<Raster id="5" name="Bite 1" palette="0" src="Raster_03.png"/>
+		<Raster id="6" name="Bite 2" palette="0" src="Raster_04.png"/>
+		<Raster id="7" name="Bite 3" palette="0" src="Raster_05.png"/>
+		<Raster id="8" name="Hurt 1" palette="0" src="Raster_06.png"/>
+		<Raster id="9" name="Hurt 2" palette="0" src="Raster_09.png"/>
+	</RasterList>
+	<AnimationList>
+		<Animation name="Static">
+			<Component name="Comp_00" xyz="0,0,0">
+				<Command val="1000"/>
+				<Command val="2"/>
+				<Command val="2000"/>
+			</Component>
+		</Animation>
+		<Animation name="Idle">
+			<Component xyz="0,-1,0">
+				<Command val="1000"/>
+				<Command val="10"/>
+				<Command val="1001"/>
+				<Command val="10"/>
+				<Command val="1002"/>
+				<Command val="10"/>
+				<Command val="2000"/>
+			</Component>
+		</Animation>
+		<Animation name="Walk">
+			<Component xyz="0,0,0">
+				<Command val="1003"/>
+				<Command val="10"/>
+				<Command val="1004"/>
+				<Command val="10"/>
+				<Command val="2000"/>
+			</Component>
+		</Animation>
+		<Animation name="Run">
+			<Component xyz="0,0,0">
+				<Command val="1003"/>
+				<Command val="8"/>
+				<Command val="1004"/>
+				<Command val="8"/>
+				<Command val="2000"/>
+			</Component>
+		</Animation>
+		<Animation name="Bite">
+			<Component xyz="0,0,0">
+				<Command val="1005"/>
+				<Command val="8"/>
+				<Command val="1006"/>
+				<Command val="10"/>
+				<Command val="1007"/>
+				<Command val="8"/>
+			</Component>
+		</Animation>
+		<Animation name="Hurt">
+			<Component xyz="0,0,0">
+				<Command val="1008"/>
+				<Command val="6"/>
+				<Command val="1009"/>
+				<Command val="6"/>
+				<Command val="2000"/>
+			</Component>
+		</Animation>
+	</AnimationList>
+</SpriteSheet>

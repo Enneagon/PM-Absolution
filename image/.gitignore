@@ -4,3 +4,22 @@
 *.iis
 *.mtl
 *.txa
+
+# Altered Images
+!/bg/iwa_bg.png
+!/bg/title_bg.png
+!/compressed/title_1.png
+
+# Altered Textures
+!/texture/kmr_tex.txa
+!/kmr_tex/kmr_tex.mtl
+!/kmr_tex/kmr_s_roadtif.png
+!/kmr_tex/kmr_flowertif.png
+!/kmr_tex/kmr_s_road_3tif.png
+!/kmr_tex/kmr_iwa_togo_atif.png
+!/kmr_tex/kmr_umisokotif.png
+!/kmr_tex/kmr_rock_edgetif.png
+!/kmr_tex/kmr_kusatif.png
+!/kmr_tex/kmr_kitchentif.png
+!/kmr_tex/kmr_komonotif.png
+!/kmr_tex/kmr_mac_hashigotif.png

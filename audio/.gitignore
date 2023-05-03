@@ -5,3 +5,14 @@ misc/8F_DAT1.sef
 misc/D9_SET1.per
 misc/DA_SET1.prg
 mseq/[0-9A-F][0-9A-F]_[0-9][0-9][0-9].mseq
+
+# Altered music
+!/bgm/00_117.bgm
+!/bgm/0F_306.bgm
+!/bgm/2F_104.bgm
+!/bgm/30_103.bgm
+!/bgm/2B_304.bgm
+!/bgm/32_106.bgm
+!/bgm/21_307.bgm
+!/bgm/2A_305.bgm
+!/bgm/31_105.bgm

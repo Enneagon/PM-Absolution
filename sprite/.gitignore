@@ -4,3 +4,19 @@
 # Original game data
 */src/[0-9A-F][0-9A-F]
 player/src/shared
+
+# Altered Sprites
+!npc/src/01
+!npc/src/09
+!npc/src/2E
+!npc/src/2F
+!npc/src/31
+!npc/src/32
+!npc/src/4B
+!npc/src/53
+!npc/src/93
+!npc/src/EA
+!npc/src/EB
+!npc/src/EC
+!npc/src/ED
+!npc/src/EE
