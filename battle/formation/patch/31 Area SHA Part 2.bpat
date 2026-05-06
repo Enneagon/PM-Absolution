@@ -5,7 +5,7 @@
 
 #new:FormationTable $FormationTable
 {
-	00000000 00000004 $Formation_00 00000000 00000000
+	00000000 00000004 $Formation_00 $Stage_SHA_01 00000000
 	00000000 00000000 00000000 00000000 00000000
 }
 
@@ -151,3 +151,30 @@
   #new:SpecialFormation $SpecialFormation_Bandito_01 {
   $27_BanditA $Vector3D_80221EF0_1B 00000001 00000009 00000000 00000000 00000000 
   }
+
+  #new:StageTable $StageTable
+{
+	"sha_bt01" $Stage_SHA_01
+	00000000 00000000
+}
+
+#new:Stage $Stage_SHA_01
+{
+  "iwa_tex"
+  "sha_bt01_shape"
+  "sha_bt01_hit"
+  00000000
+  00000000
+  "iwa_bg"
+  $ForegroundModelList_SHA_01
+  00000000
+  00000000
+  00000000
+}
+
+#new:ForegroundModelList $ForegroundModelList_SHA_01
+{
+	~Model:iwa_bt01:iwa1
+	~Model:iwa_bt01:o331
+	00000000
+}
